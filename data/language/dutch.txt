@@ -3892,7 +3892,7 @@ STR_5556    :Speler verwijderen
 STR_5557    :Verbinding behouden na desynchronisatie (multiplayer)
 STR_5558    :Om deze instelling van kracht te laten worden is een herstart vereist.
 STR_5559    :Elke 10 min. inspect.
-STR_5560    :{SMALLFONT}{BLACK}Stelt het inspectie interval van alle attracties in op 'Elke 10 minuten'.
+STR_5560    :{SMALLFONT}{BLACK}Stelt het inspectieinterval van alle attracties in op 'Elke 10 minuten'.
 
 #############
 # Scenarios #
